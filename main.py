@@ -19,7 +19,7 @@ jollyrancherflavor = input("Enter your favorite Jolly Rancher Flavor: ")
 
 print("The sky was", color)
 print("I", verbb + " to the bus stop")
-print("I stop to pick up", Food)
+print("I stop to pick up", food)
 print(name + "met me at school.")
 print(celebrity + " was there and they talked to our school about bullying. It was boring until they satrted to sing Twinkle Twinkle Little Star.")
 print("On the way home my friend and I saw", animal)
