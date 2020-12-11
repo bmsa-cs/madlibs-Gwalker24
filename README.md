@@ -1,9 +1,1 @@
-print("Pick an animal")
-1answer = input()
-print("Pick a name")
-2answer = input()
-print("Pick a place")
-3answer = input()
-print("Pick a food")
-4answer = input()
-print("The  + (1answer) +and + (2answer) + go to + (3answer) +to eat+ (4answer)")
+
